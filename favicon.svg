@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="الأزهار الناعمة">
+  <rect width="64" height="64" rx="16" fill="#FBEDE9"/>
+  <g fill="none" stroke="#D98C8C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 30c0-7 5-12 5-12s5 5 5 12-5 9-5 9-5-2-5-9Z" fill="#F6C9C0" stroke="#D98C8C"/>
+    <path d="M32 30c0-7-5-12-5-12s-5 5-5 12 5 9 5 9 5-2 5-9Z" fill="#F3D8C7" stroke="#C9A98E"/>
+    <path d="M32 33c4 0 8 3 8 3s-4 4-8 4-8-4-8-4 4-3 8-3Z" fill="#CFE6D4" stroke="#7FB593"/>
+  </g>
+  <path d="M32 40v14" stroke="#7FB593" stroke-width="2.6" stroke-linecap="round"/>
+</svg>
